@@ -1,0 +1,18 @@
+{
+  "dev": {
+    "driver": "pg",
+    "host": "localhost",
+    "port": 5432,
+    "database": "project2",
+    "user": "postgres",
+    "password": "Tuanquen1991@"
+  },
+  "test": {
+    "driver": "pg",
+    "host": "localhost",
+    "port": 5432,
+    "database": "project2test",
+    "user": "postgres",
+    "password": "Tuanquen1991@"
+  }
+}
